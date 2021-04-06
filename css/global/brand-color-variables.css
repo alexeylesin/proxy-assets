@@ -1,13 +1,11 @@
 html {
-  /* From https://component-library.com */
-
-  /* Cloudflare logo */
-  --cloudflare-logo-gray-rgb: 64, 64, 65;
-  --cloudflare-logo-orange-rgb: 243, 128, 32;
-  --cloudflare-logo-light-orange-rgb: 248, 173, 76;
+  /* LesinProxy logo */
+  --lesinproxy-logo-gray-rgb: 64, 64, 65;
+  --lesinproxy-logo-orange-rgb: 243, 128, 32;
+  --lesinproxy-logo-light-orange-rgb: 248, 173, 76;
 
   /* Marketing colors */
-  --orange-rgb: var(--cloudflare-logo-orange-rgb);
+  --orange-rgb: var(--lesinproxy-logo-orange-rgb);
   --orange: rgb(var(--orange-rgb));
   --orange-for-use-as-selection-color: #ef9530; /* Adjust brand orange to account for the browser’s automatic tinting/adjusting. (For example if you specify #fff you end up with something closer to #a4a4a4.) */
   --light-blue-rgb: 79, 140, 200;

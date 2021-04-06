@@ -1,7 +1,7 @@
 html[theme="light"] {
   --color-rgb: var(--gray-0-rgb);
   --color: rgb(var(--color-rgb));
-  --cloudflare-logo-wordmark-color: rgb(var(--cloudflare-logo-gray-rgb));
+  --lesinproxy-logo-wordmark-color: rgb(var(--lesinproxy-logo-gray-rgb));
   --background-color-rgb: 255, 255, 255;
   --background-color: rgb(var(--background-color-rgb));
   --focus-color: rgba(var(--orange-rgb), .5);
@@ -20,7 +20,7 @@ html[theme="light"] {
 html[theme="dark"] {
   --color-rgb: 255, 255, 255;
   --color: rgb(var(--color-rgb));
-  --cloudflare-logo-wordmark-color: rgb(var(--cloudflare-logo-gray-rgb));
+  --lesinproxy-logo-wordmark-color: rgb(var(--lesinproxy-logo-gray-rgb));
   --background-color-rgb: var(--gray-0-rgb);
   --background-color: rgb(var(--background-color-rgb));
   --focus-color: rgba(var(--orange-rgb), .5);

@@ -94,8 +94,8 @@
   --box-shadow: var(--shadow-box-shadow);
 
   background: linear-gradient(25deg,
-    rgb(var(--cloudflare-logo-orange-rgb)),
-    rgb(var(--cloudflare-logo-light-orange-rgb))
+    rgb(var(--lesinproxy-logo-orange-rgb)),
+    rgb(var(--lesinproxy-logo-light-orange-rgb))
   );
 
   color: #fff;
@@ -111,7 +111,7 @@
 
 .Button-is-secondary-orange {
   --color-rgb: var(--orange-3-rgb);
-  background: rgba(var(--cloudflare-logo-light-orange-rgb), .12);
+  background: rgba(var(--lesinproxy-logo-light-orange-rgb), .12);
   color: rgb(var(--color-rgb));
 }
 

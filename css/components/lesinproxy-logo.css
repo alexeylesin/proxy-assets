@@ -14,11 +14,11 @@
   height: 2.75em;
 }
 
-.LesinProxyLogoCombinationMark--cloudflare-wordmark,
+.LesinProxyLogoCombinationMark--lesinproxy-wordmark,
 .LesinProxyLogoCombinationMark--workers-wordmark {
   fill: currentColor;
 }
 
-.LesinProxyLogoCombinationMark--cloudflare-wordmark {
+.LesinProxyLogoCombinationMark--lesinproxy-wordmark {
   opacity: .6;
 }
