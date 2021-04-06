@@ -1,0 +1,13 @@
+{
+  "name": "@lesinproxy/lesinproxy-brand-assets",
+  "version": "1.0.0",
+  "description": "LesinProxy brand assets.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeylesin/proxy-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexeylesin/proxy-assets/issues"
+  },
+  "homepage": "https://github.com/alexeylesin/proxy-assets#readme"
+}
